@@ -1,0 +1,6 @@
+OS：macOS Sierra
+MacBook Air(13-inch)
+プロセッサ 2.2Ghz intel core i7
+メモリ 8GB 1600 MHz DDR3
+起動ディスク Macintosh HD(251GB)
+グラフィックス intel HD Graphics 6000 1536 MB
