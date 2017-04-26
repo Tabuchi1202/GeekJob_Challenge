@@ -1,15 +1,15 @@
 <%-- 
-    Document   : Java2-4
-    Created on : 2017/04/26, 11:48:17
+    Document   : Java2-5
+    Created on : 2017/04/26, 12:10:25
     Author     : tabuchiakihiro
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <%
-   for(int i=0; i<100; i++) {
-       out.print(i+1);
-   }
+    for(int i=0; i<101; i++){
+        out.print(i+0);
+    }
 
 
 
@@ -20,6 +20,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        
+       
     </body>
 </html>
